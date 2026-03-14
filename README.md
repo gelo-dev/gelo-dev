@@ -70,7 +70,7 @@ Login/Register with JWT, bcrypt, protected routes
 
 🔹 E-commerce Backend API
 Product management, user authentication, role-based access
-(This is my ongoing project hahaha)
+[(This is my ongoing personal project)] (https://gelo-xpress.netlify.app/)
 
 🔹 Responsive Business Landing Page
 Modern UI with React + Tailwind
